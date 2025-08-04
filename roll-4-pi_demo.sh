@@ -2,7 +2,7 @@
 
 #SBATCH --job-name=roll-4-pi
 #SBATCH --account=gue998
-#SBATCH --reservation=si125cpu
+#SBATCH --reservation=si25cpu
 #SBATCH --partition=shared
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
